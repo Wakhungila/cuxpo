@@ -2,7 +2,7 @@
 
 #===============================================================================
 # CUXPO: Comprehensive Bug Bounty Reconnaissance Tool
-# Author: AI Assistant
+# Author: pin0ccs
 # Version: 1.0
 # Description: Multi-faceted reconnaissance automation for ethical bug bounty hunting
 #===============================================================================
